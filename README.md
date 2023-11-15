@@ -6,7 +6,7 @@ Chapter 1 Karate
 
 ![Karate](Karate.png)
 
-> I have begun training Karate at the age of 6 till the age of 17
+> I have begun training Karate at the age of 6 till the age of 18
 >> During this period I got good at and I was several years in a row national champion of homeland.
 >>> I have brown belt. Unfortunately I do not train Karate anymore.
 
